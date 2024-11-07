@@ -8,7 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 
-private.js
 node_modules
 dist
 dist-ssr
@@ -16,6 +15,7 @@ dist-ssr
 
 # Editor directories and files
 .vscode/*
+private.js
 !.vscode/extensions.json
 .idea
 .DS_Store
